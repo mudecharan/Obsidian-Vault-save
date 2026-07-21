@@ -3,6 +3,6 @@ Obsidian Vault Save A curated collection of the absolute best free Obsidian vaul
 # 🚀 Quick Start:
 To use any of these vaults, follow these simple steps:
 1. Download or clone the repository of your chosen vault from the links below.
-2. Install ![Obsidian](https://obsidian.md/) if you haven't already.
+2. Install [Obsidian](https://obsidian.md/) if you haven't already.
 3. Open Obsidian and select "Open folder as vault".
 4. Navigate to the downloaded folder and select it
