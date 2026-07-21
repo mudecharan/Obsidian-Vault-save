@@ -19,4 +19,5 @@ To use any of these vaults, follow these simple steps:
 
 1. [Awesome List of Obsidian vaults](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault)
 2. [Health science student vault — Velocity theme, Dataview databases, anatomy galleries, and a literature tracker (details in comments)](https://www.reddit.com/r/ObsidianMD/comments/1t89ur9/health_science_student_vault_velocity_theme/)
-3. 
+3. [School Vault](https://www.reddit.com/r/ObsidianMD/comments/1spw6ww/obsidian_helped_me_so_much_sharing_vault_setup/)
+4. 
