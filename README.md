@@ -15,4 +15,6 @@ To use any of these vaults, follow these simple steps:
 2. Install [Obsidian](https://obsidian.md/) if you haven't already.
 3. Open Obsidian and select "Open folder as vault".
 4. Navigate to the downloaded folder and select it
+---
 
+1. [Awesome List of Obsidian vaults](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault)
